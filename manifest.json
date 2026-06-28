@@ -1,0 +1,10 @@
+{
+  "version": "1.0.1",
+  "files": [
+    {
+      "name": "background.zip",
+      "path": "data/images/background.zip",
+      "size": 0
+    }
+  ]
+}
