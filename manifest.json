@@ -4,7 +4,12 @@
     {
       "name": "background.zip",
       "path": "data/images/background.png",
-      "size": 0
+      "size": 154200
+    },
+    {
+      "name": "1098.zip",
+      "path": "data/things/1098/Tibia.spr",
+      "size": 45201100
     }
   ]
 }
