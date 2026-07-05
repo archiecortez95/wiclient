@@ -1,15 +1,8 @@
 {
-  "version": "1.0.1",
-  "files": [
-    {
-      "name": "background.zip",
-      "path": "data/images/background.png",
-      "size": 154200
-    },
-    {
-      "name": "1098.zip",
-      "path": "data/things/1098/Tibia.spr",
-      "size": 45201100
-    }
-  ]
+  "url": "https://githubusercontent.com",
+  "files": {
+    "data/images/background.png": "background.zip",
+    "data/things/1098/Tibia.spr": "1098.zip"
+  },
+  "keepFiles": false
 }
