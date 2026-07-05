@@ -1,8 +1,5 @@
 {
   "url": "https://githubusercontent.com",
   "files": {
-    "data/images/background.png": "background.zip",
-    "data/things/1098/Tibia.spr": "1098.zip"
-  },
-  "keepFiles": false
-}
+    "data/images/background.png": "background.zip"
+  }
